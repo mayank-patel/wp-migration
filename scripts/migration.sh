@@ -2,7 +2,7 @@
 
 # --- CONFIGURATION ---
 OLD_USER="root"              # The username on the old server
-OLD_IP="139.59.77.187"      # The IP of the old server
+OLD_IP="<OLD_IP>"      # The IP of the old server
 OLD_PATH="/var/www/html"      # Path to WP on old server
 NEW_PATH="/var/www/html"      # Path to WP on new server
 SSH_KEY="~/.ssh/id_ed25519"   # Path to your private key
